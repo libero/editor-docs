@@ -1,3 +1,10 @@
+---
+description: >-
+  Common actions are repetitive patterns that appear in a variety of components.
+  Common actions should be applied whenever possible to ensure a consistent user
+  experience.
+---
+
 # Common actions
 
 On this page
@@ -5,7 +12,7 @@ On this page
 * Adding content
 * Removing content
 * Editing content
-* Linking
+* Linking content
 
 ## Adding content
 
