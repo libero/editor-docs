@@ -11,7 +11,7 @@ On this page
 
 ### Add button
 
-![](../.gitbook/assets/add-more-button.svg)
+![](../.gitbook/assets/add-more-button%20%281%29.svg)
 
 #### **Description**
 
