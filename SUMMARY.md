@@ -1,4 +1,7 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Libero Editor Design](README.md)
+* [Patterns](patterns/README.md)
+  * [Common actions](patterns/common-actions.md)
+  * [Content display](patterns/content-display.md)
 
