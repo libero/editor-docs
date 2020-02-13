@@ -1,6 +1,0 @@
-# Patterns
-
-Content to come
-
-
-
