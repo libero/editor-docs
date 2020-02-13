@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Libero Editor Design](README.md)
+* [Welcome](README.md)
 * [Contributing to Libero Editor](contributing-to-libero-editor.md)
 * [Patterns](patterns/README.md)
   * [Common actions](patterns/common-actions.md)
